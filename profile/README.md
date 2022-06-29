@@ -10,6 +10,30 @@ Moze is the new generation room management application for your business, no mat
 
 ## :v: What can Moze do ?
 
+### The features :
+
+#### :notes: Music management (support only spotify)
+
+**Imagine launching your own playlist _enhanced by your users_** and creating the _ultimate playlist_ for them and yourself.
+
+Give a starting playlist and that's it.  
+Then your customers will be able to add their favorite songs and vote for the ones they like best.
+
+And at the end of the day you can find your own enhanced playlist!
+
+#### :bulb: Light management (support only yeelights devices)
+
+It is important to you to offer the best experience to your customers, and the sense of light means a lot to you.
+
+Moze is here for you, with its integrated support you will be able to set up all your connected bulbs/lamps in a few clicks!
+
+#### :sparkles: Event handling
+
+It's _**THE** addition of moze_ with events, keep your customers busy and loyal and allow them to win prizes or play their music in ultimate priority.
+
+With a QR code, each customer can come and register on your party.  
+Then all you have to do is activate the event when you want (you can also schedule it of course).
+
 ## :gear: How does it work?
 
 Simply create an account on _moze.app_ and let yourself be guided.
