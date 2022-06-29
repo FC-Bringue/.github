@@ -4,8 +4,8 @@
 
 Moze is the new generation room management application for your business, no matter what type of place you have.
 
-:tada: **Give the control back to your customers**, with Moze let your customers decide what music they want to listen to, all from their own devices.
-:bulb: **Create a colorful atmosphere**, thanks to the support of connected lamps, allowing you to manage everything from our web interface.
+:tada: **Give the control back to your customers**, with Moze let your customers decide what music they want to listen to, all from their own devices.  
+:bulb: **Create a colorful atmosphere**, thanks to the support of connected lamps, allowing you to manage everything from our web interface.  
 :crescent_moon: **Keep your customers awake**, with the addition of competitive mini-games, allowing them to win lots of stuff.
 
 ## :v: What can Moze do ?
